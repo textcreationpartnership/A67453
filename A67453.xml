@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Proposal to the honourable House of Commons for raising above half a million of money per annum, for the service of the government, with great ease to the subject by a tax upon signs</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67453</idno>
+            <idno type="STC">Wing W65</idno>
+            <idno type="STC">ESTC R7210</idno>
+            <idno type="EEBO-CITATION">13510764</idno>
+            <idno type="OCLC">ocm 13510764</idno>
+            <idno type="VID">99840</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67453)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99840)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 480:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Proposal to the honourable House of Commons for raising above half a million of money per annum, for the service of the government, with great ease to the subject by a tax upon signs</title>
+                  <author>J. W.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the authour,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695 or 6 [i.e. 1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Property tax --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99840:1"/>
+            <!-- PDF PAGE 69 -->
+            <pb facs="tcp:99840:1"/>
+            <!-- PDF PAGE 69 -->
+            <p>A PROPOSAL To the HONOURABLE <hi>Houſe of Commons,</hi> For Raiſing above Half a Million of Money <hi>per Annum,</hi> For the Service of the GOVERNMENT, With great Eaſe to the <hi>Subject,</hi> BY A TAX UPON SIGNS.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for the AUTHOUR. 1695/6.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proposition">
+            <pb facs="tcp:99840:2"/>
+            <!-- PDF PAGE 70 -->
+            <pb n="3" facs="tcp:99840:2"/>
+            <!-- PDF PAGE 70 -->
+            <head>A PROPOSAL FOR A TAX UPON SIGNS, &amp;c.</head>
+            <p>THAT all <hi>Taverns, Inns, — Ordinaries, Victualling-Houſes, Coffee-Houſes, Cooks-Shops,</hi> and other Houſes of <hi>Publick Entertainment:</hi> As alſo, all <hi>Traders</hi> or <hi>Shop-keepers,</hi> in His Majeſty's King<g ref="char:EOLhyphen"/>dom of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> ſhall for One Year (or for as many as this Honourable Houſe thinks fit) pay reſpectively ſuch a TAX, as followeth.</p>
+            <p>
+               <hi>Imprimis.</hi> That all <hi>Taverns, Inns,</hi> and <hi>Ordinaries,</hi> (in regard of the great Eſtates that are ſuddenly got by ſome that keep them) a <hi>Tax</hi> to be laid upon the Maſter or Mi<g ref="char:EOLhyphen"/>ſtreſs thereof, throughout the Cities of <hi>London</hi> and <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> for their <hi>
+                  <hi>Sign,</hi> One Pound per Annum.</hi>
+            </p>
+            <pb n="4" facs="tcp:99840:3"/>
+            <!-- PDF PAGE 71 -->
+            <p>
+               <hi>Secondly,</hi> That all <hi>Taverns</hi> and <hi>Inns</hi> in all the Roads in <hi>England, Wales,</hi> and <hi>Berwick</hi> upon <hi>Tweed,</hi> (except thoſe that Quarter Souldiers, to pay only for the time they are freed from them) eſpecially where <hi>Stage-Coaches</hi> come to; and all Noted Houſes where Gentlemen-Travellers commonly Reſort for beſt Entertainment, but very frequently are unconſcionably exacted on, <hi>Pay One Pound per Annum.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> That all <hi>Taverns</hi> and <hi>Inns,</hi> in all Cities, Towns, and Villages, <hi>Pay Fifteen Shillings per Annum.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> That all <hi>Victualling-Houſes, Coffee-Houſes, Cook-Shops,</hi> and other Houſes of Publick Entertainment, within the Cities of <hi>London</hi> and <hi>Weſtminſter, Pay Ten Shillings per Annum.</hi>
+            </p>
+            <p>
+               <hi>Fifthly,</hi> That all <hi>Taverns</hi> and <hi>Inns</hi> in the Suburbs of <hi>London, Pay Fifteen Shillings per Annum.</hi>
+            </p>
+            <p>
+               <hi>Sixthly,</hi> That all <hi>Victualling-Houſes, Coffee-Houſes, Cook-Shops,</hi> and other Houſes of Publick Entertainment in the Su<g ref="char:EOLhyphen"/>burbs, pay for their <hi>
+                  <hi>Sign,</hi> Eight Shillings per Annum.</hi>
+            </p>
+            <p>Next, <hi>That a Tax be laid upon all Traders or Shop<g ref="char:EOLhyphen"/>keepers in His Majeſty's Kingdom of</hi> England, <hi>Domi<g ref="char:EOLhyphen"/>nion of</hi> Wales, <hi>and Town of</hi> Berwick <hi>upon</hi> Tweed, <hi>for their Signs,</hi> viz.</p>
+            <p>
+               <hi>Firſt,</hi> That every <hi>Merchant, Goldſmith, Mercer, Grocer, Apothecary, Drugſter, Woolen Draper, Linnen-Draper,</hi> and other of the chiefeſt Traders or Shopkeepers in <hi>London, Weſtminſter,</hi> and <hi>Suburbs,</hi> pay for their <hi>
+                  <hi>Sign,</hi> One Pound per Annum.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> That upon all the <hi>Signs,</hi> of what Trade ſoever, in <hi>Weſtminſter-Hall,</hi> and within both the <hi>Old</hi> and <hi>New-Ex<g ref="char:EOLhyphen"/>changes,</hi> and others within the City, there be laid a <hi>Tax</hi> of <hi>Ten Shillings per Annum.</hi>
+            </p>
+            <pb n="5" facs="tcp:99840:3"/>
+            <!-- PDF PAGE 71 -->
+            <p>
+               <hi>Thirdly,</hi> That all Handicraft Trades, and thoſe of an infe<g ref="char:EOLhyphen"/>riour Occupation, within <hi>London, Weſtminſter,</hi> and <hi>Suburbs, Pay Five Shillings per Annum.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> That all Traders or Shop-keepers whatſoever throughout all Cities and Towns in <hi>England, Wales,</hi> and <hi>Berwick</hi> upon <hi>Tweed,</hi> (except <hi>London</hi> and <hi>Weſtminſter,</hi>) <hi>Pay</hi> for their <hi>
+                  <hi>Sign,</hi> Five Shillings per Annum.</hi>
+            </p>
+            <p>
+               <hi>Fifthly,</hi> That all Shop-keepers throughout all Villages, <hi>Pay Two Shillings Six-pence per Annum.</hi>
+            </p>
+            <p>
+               <hi>Or to be laid thus,</hi>
+            </p>
+            <p>By reaſon it is too tedious to Enumerate the Trades of all Shop-keepers throughout City and Country, and ſo <hi>Tax</hi> every Man according to the Quality and Inequality of his Trade; which beſides might breed a diſpute, That one Trade, tho inſeriour to another, bears as great or larger Product at the Years end, and ſo is liable to pay more or equal. It is there<g ref="char:EOLhyphen"/>fore humbly conceiv'd, (to prevent that Cavil) that inſtead of Taxing every particular Trade, according to the Merit of it, Every Tradeſman or Shop-keeper to be Taxed for his <hi>Sign</hi> according to the Annual Rent he pays for his Houſe and Shop, or Shop alone, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> That every Tradeſman or Shop-keeper throughout <hi>London</hi> and <hi>Weſtminſter,</hi> that pays an Annual Rent of Forty Pound a Year or upwards for his Houſe and Shop, to pay for his <hi>
+                  <hi>Sign,</hi> One Pound per Annum.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> That every Tradeſman or Shop-keeper, that pays an Annual Rent of Thirty Pound, to Pay <hi>Fifteen Shillings per Annum.</hi>
+            </p>
+            <pb n="6" facs="tcp:99840:4"/>
+            <!-- PDF PAGE 72 -->
+            <p>
+               <hi>Thirdly,</hi> That all who pay an Annual Rent of Twenty Pounds, to pay <hi>Ten Shillings per Annum,</hi> and ſo downwards proportionably, and for any Rent betwixt thoſe Nominated.</p>
+            <p>
+               <hi>Fourthly,</hi> That every Tradeſman or Shop-keeper, through<g ref="char:EOLhyphen"/>out <hi>England, Wales,</hi> and <hi>Berwick</hi> upon <hi>Tweed,</hi> that pays an Annual Rent of Ten Pounds, or upwards, to Pay <hi>Five Shillings per Annum.</hi>
+            </p>
+            <p>
+               <hi>Fifthly,</hi> That all who pay an Annual Rent of Five Pounds, to pay <hi>Two Shillings Six-pence per Annum,</hi> and ſo proportionably for a greater or leſſer Rent.</p>
+            <p>Now, in regard there are many great Traders and Dealers in the Country, as well as in the City, who have no Signs, (but eſpecially the former) nor Shops, but Warehouſes only, its requiſite, leſt any Objection ſhould ariſe, that they pay according to the Rate of the <hi>Tax</hi> laid upon thoſe who have <hi>Shops</hi> and <hi>Signs.</hi>
+            </p>
+            <p>And further, That in caſe this Honourable Houſe ſhall think fit to lay this <hi>Tax,</hi> it is probable, that ſome Perſons, thinking to avoid Paying, will pull down their <hi>Signs;</hi> which if it ſhould ſo happen, and true Information given thereof to ſuch Officer or Officers as ſhall be appointed to inſpect the Annual Rent of ſuch Houſes and Shops, as are within their reſpective Precincts, ſuch Perſon or Perſons to pay double the <hi>Tax</hi> laid on them; or otherwiſe, to pay the ſame Rate (after ſuch Diſcovery) with thoſe that have <hi>Signs,</hi> as aforeſaid.</p>
+            <p>And by reaſon His Majeſty's extraordinary Occaſions require a ſpeedy ſupply, if this Honourable Houſe ſhall think fit, The Tax laid upon Taverns, Inns, <hi>&amp;c.</hi> may be gathered Quarterly by the Officers of the <hi>Exciſe,</hi> and managed by the Commiſſioners, without any Charge to the King: And
+<pb n="7" facs="tcp:99840:4"/>
+               <!-- PDF PAGE 72 -->other Officers appointed in every City and chief Town, to receive the <hi>Tax</hi> laid upon Tradeſmen or Shop-keepers, which in one Year, will bring in above half a Million of Money <hi>per Annum</hi> to His Majeſty, and may, for the future, disburthen the <hi>Land Tax.</hi> And as it will in a manner be inſenſibly felt by thoſe its laid upon, ſo it may be continued as long as is needful, for ſupplying what is Deficient in carrying on the War againſt <hi>France.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>All which is moſt humbly ſubmitted to,</hi> By J. W.</signed>
+            </closer>
+         </div>
+         <div type="addendum">
+            <p>By the Books of the <hi>Hearth-Money</hi> it appears there were Thirteen Hundred Thouſand Houſes.</p>
+            <p>By Increaſe of Buildings ſince, above Two Hundred Thouſand Houſes more.</p>
+            <p>In all 1500000 Houſes.</p>
+            <p>Computing then Two Thirds of that Sum <hi>Publick-Houſes, Shop-keepers,</hi> and <hi>Traders,</hi> at Ten Shillings a <hi>
+                  <hi>Sign</hi> per Annum,</hi> one with another, ſubject to this Payment, will Raiſe, by a modeſt Computation, above <hi>Half a Million per Annum.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="note">
+            <p>☞ NOTE, That if it ſhould be Objected, That a TAX is lately charg'd upon Houſes for their Windows, and ſo may be thought too ſevere to lay a double TAX on them for their SIGNS: It is humbly Anſwered, That what hath been Propoſed, is not intended for a further <hi>Tax</hi> upon Houſes, but by taking an Account of the Annual Rent that is paid for them, a better Eſtimate may be given of the Value of that Trade: For its to be ſuppoſed, by how much the more Rent they ſit at, the greater the quality and income of the Trade muſt be: So that the Trading Shop keeper, for the Sign he puts forth, is chiefly meant by what is here Offered.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
